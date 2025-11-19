@@ -1,4 +1,4 @@
-# Olá, mundo! Eu me chamo David Santana!
+# Olá! Eu me chamo David Santana!
 ## Bem-vindo ao meu GitHub 👋
 
 <!--
